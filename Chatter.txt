@@ -1,0 +1,10 @@
+	Chatter v.4 
+
+Description:
+simple IP chat program.
+
+send me bugs & feedback
+
+
+Gurkan Tumer
+albaarn@yahoo.com
